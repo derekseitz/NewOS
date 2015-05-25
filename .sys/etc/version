@@ -1,9 +1,0 @@
-function os.versionNum()
-	return 1.6
-	end
-	
-function os.versionBuild()
-	return 106004
-	end
-	
-return true
