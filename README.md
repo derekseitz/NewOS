@@ -1,2 +1,0 @@
-# NewOS
-My New OS
